@@ -1,0 +1,25 @@
+@import "./assets/css/style.css";
+@import "./assets/css/bootstrap.scss";
+@import "./assets/css/font-awesome.scss";
+@import "./assets/css/main.css";
+@import "./assets/css/style.css";
+
+/* @import "./assets/css/demo-page.css";
+@import "./assets/css/examples.css";
+@import "./assets/css/geochart.css";
+@import "./assets/css/hover.css";
+@import "./assets/css/magnific-popup.css"; */
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
